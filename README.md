@@ -27,7 +27,7 @@ Gridora uses a decoupled **Client-Server Architecture**:
 
 ## Main Dashboard
 
-![Main Dashboard](screenshots/main-dashboard.png)
+![Main Dashboard](screenshots/main-dashbaord.png)
 
 ---
 
